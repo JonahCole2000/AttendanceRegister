@@ -1,6 +1,5 @@
 # Design Wireframe
 
-* Status: proposed
 * Date: 2023-10-19
 
 ## Context and Problem Statement
