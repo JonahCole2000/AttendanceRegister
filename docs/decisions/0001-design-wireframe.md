@@ -1,5 +1,6 @@
 # Design Wireframe
 
+* Status: proposed
 * Date: 2023-10-19
 
 ## Context and Problem Statement
@@ -13,4 +14,4 @@ A wireframe needed to be designed for the system that is being planned.
 
 ## Decision Outcome
 
-Chosen option: "Figma", because I have used Figma before so could more efficiently create a good wireframe using Figma.
+Chosen option: "Figma", because I have used Figma before so could more efficiently create a suitable wireframe using Figma.
