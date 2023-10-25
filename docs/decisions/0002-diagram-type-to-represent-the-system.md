@@ -1,6 +1,5 @@
 # Diagram type to represent the system
 
-* Status: accepted
 * Date: 2023-10-24
 
 ## Context and Problem Statement
